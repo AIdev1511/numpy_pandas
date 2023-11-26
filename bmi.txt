@@ -1,0 +1,4 @@
+name	height	weight
+Mariya	1.67	54
+Batman	1.9	100
+Spongebob	0.25	1
